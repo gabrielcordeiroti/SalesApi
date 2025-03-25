@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "COWbqzeoYAQqYYxIdGzP3IebPgDkOvR3Cb5ScMPNPKY=",
+  "Source": "MyTestSalesApi",
+  "BasePath": "_content/MyTestSalesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

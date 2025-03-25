@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "h+zZnwiGpIK9sV7wz2VPgAkBD81wDNeygrXj2DE83lQ=",
+  "Source": "MyTestGateway",
+  "BasePath": "_content/MyTestGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,53 @@
+{
+    "Routes": [
+        {
+            "DownstreamPathTemplate": "/products",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "sales-api",
+                    "Port": 8090
+                }
+            ],
+            "UpstreamPathTemplate": "/products",
+            "UpstreamHttpMethod": [ "GET", "POST" ],
+            "AuthenticationOptions": {
+                "AuthenticationProviderKey": "Bearer",
+                "AllowedScopes": []
+            },
+            "RateLimitOptions": {
+                "ClientWhitelist": [],
+                "EnableRateLimiting": true,
+                "Period": "1s",
+                "PeriodTimespan": 1,
+                "Limit": 5
+            }
+        },
+        {
+            "DownstreamPathTemplate": "/sales",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "sales-api",
+                    "Port": 8090
+                }
+            ],
+            "UpstreamPathTemplate": "/sales",
+            "UpstreamHttpMethod": [ "GET", "POST", "DELETE" ],
+            "AuthenticationOptions": {
+                "AuthenticationProviderKey": "Bearer",
+                "AllowedScopes": []
+            },
+            "RateLimitOptions": {
+                "ClientWhitelist": [],
+                "EnableRateLimiting": true,
+                "Period": "1s",
+                "PeriodTimespan": 1,
+                "Limit": 10
+            }
+        }
+    ],
+    "GlobalConfiguration": {
+        "BaseUrl": "http://ocelot-gateway:7777"
+    }
+}

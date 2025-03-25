@@ -1,0 +1,482 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyTest\\MyTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\MyTest\\MyTest\\Jenkinsfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:Jenkinsfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\MyTest\\MyTest\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D2FE7C-220E-4F5D-837E-0BD6F74D9990}|src\\Gateway\\MyTestGateway\\MyTestGateway.csproj|c:\\mytest\\mytest\\src\\gateway\\mytestgateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4D2FE7C-220E-4F5D-837E-0BD6F74D9990}|src\\Gateway\\MyTestGateway\\MyTestGateway.csproj|solutionrelative:src\\gateway\\mytestgateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D2FE7C-220E-4F5D-837E-0BD6F74D9990}|src\\Gateway\\MyTestGateway\\MyTestGateway.csproj|c:\\mytest\\mytest\\src\\gateway\\mytestgateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D2FE7C-220E-4F5D-837E-0BD6F74D9990}|src\\Gateway\\MyTestGateway\\MyTestGateway.csproj|solutionrelative:src\\gateway\\mytestgateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\validations\\salevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\validations\\salevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\validations\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\validations\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\domain\\entities\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\domain\\entities\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\events\\consoleeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\events\\consoleeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CCD30-F53D-4B5F-8A77-A2C5FC675A52}|tests\\MyTest.Tests\\MyTest.Tests\\MyTest.Tests.csproj|c:\\mytest\\mytest\\tests\\mytest.tests\\mytest.tests\\saleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3CCD30-F53D-4B5F-8A77-A2C5FC675A52}|tests\\MyTest.Tests\\MyTest.Tests\\MyTest.Tests.csproj|solutionrelative:tests\\mytest.tests\\mytest.tests\\saleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D2FE7C-220E-4F5D-837E-0BD6F74D9990}|src\\Gateway\\MyTestGateway\\MyTestGateway.csproj|c:\\mytest\\mytest\\src\\gateway\\mytestgateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4D2FE7C-220E-4F5D-837E-0BD6F74D9990}|src\\Gateway\\MyTestGateway\\MyTestGateway.csproj|solutionrelative:src\\gateway\\mytestgateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\domain\\entities\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\domain\\entities\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\migrations\\20250322150350_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\migrations\\20250322150350_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\dockerfile.migrations||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\dockerfile.migrations||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|c:\\mytest\\mytest\\src\\salesapi\\mytestsalesapi\\events\\ieventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7956B323-F3EE-456B-AED2-E24D300702AB}|src\\SalesApi\\MyTestSalesApi\\MyTestSalesApi.csproj|solutionrelative:src\\salesapi\\mytestsalesapi\\events\\ieventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\MyTest\\MyTest\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D2FE7C-220E-4F5D-837E-0BD6F74D9990}|src\\Gateway\\MyTestGateway\\MyTestGateway.csproj|c:\\mytest\\mytest\\src\\gateway\\mytestgateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A4D2FE7C-220E-4F5D-837E-0BD6F74D9990}|src\\Gateway\\MyTestGateway\\MyTestGateway.csproj|solutionrelative:src\\gateway\\mytestgateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D2FE7C-220E-4F5D-837E-0BD6F74D9990}|src\\Gateway\\MyTestGateway\\MyTestGateway.csproj|c:\\mytest\\mytest\\src\\gateway\\mytestgateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4D2FE7C-220E-4F5D-837E-0BD6F74D9990}|src\\Gateway\\MyTestGateway\\MyTestGateway.csproj|solutionrelative:src\\gateway\\mytestgateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaleValidator.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Validations\\SaleValidator.cs",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Validations\\SaleValidator.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Validations\\SaleValidator.cs",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Validations\\SaleValidator.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwAwAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:08:08.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\Sale.cs",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\Sale.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\Sale.cs",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\Sale.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:45:15.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Validations\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Validations\\ProductValidator.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Validations\\ProductValidator.cs",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Validations\\ProductValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:17:32.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:11:10.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\Services\\SaleService.cs",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\Services\\SaleService.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\Services\\SaleService.cs",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\Services\\SaleService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:35:33.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\Gateway\\MyTestGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Gateway\\MyTestGateway\\appsettings.json",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\Gateway\\MyTestGateway\\appsettings.json",
+              "RelativeToolTip": "src\\Gateway\\MyTestGateway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T15:29:54.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\MyTest\\MyTest\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-03-22T15:22:36.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEventPublisher.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Events\\IEventPublisher.cs",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Events\\IEventPublisher.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Events\\IEventPublisher.cs",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Events\\IEventPublisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:18:12.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConsoleEventPublisher.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Events\\ConsoleEventPublisher.cs",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Events\\ConsoleEventPublisher.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Events\\ConsoleEventPublisher.cs",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Events\\ConsoleEventPublisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:17:58.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\Gateway\\MyTestGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\Gateway\\MyTestGateway\\Dockerfile",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\Gateway\\MyTestGateway\\Dockerfile",
+              "RelativeToolTip": "src\\Gateway\\MyTestGateway\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-22T15:16:30.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jenkinsfile",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\Jenkinsfile",
+              "RelativeDocumentMoniker": "Jenkinsfile",
+              "ToolTip": "C:\\MyTest\\MyTest\\Jenkinsfile",
+              "RelativeToolTip": "Jenkinsfile",
+              "ViewState": "AQIAADcAAAAAAAAAAAAqwEYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-22T15:16:18.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Controllers\\SalesController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAgwFAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:16:06.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\Gateway\\MyTestGateway\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Gateway\\MyTestGateway\\Program.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\Gateway\\MyTestGateway\\Program.cs",
+              "RelativeToolTip": "src\\Gateway\\MyTestGateway\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:14:59.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:07:27.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:11:15.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\Gateway\\MyTestGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "src\\Gateway\\MyTestGateway\\ocelot.json",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\Gateway\\MyTestGateway\\ocelot.json",
+              "RelativeToolTip": "src\\Gateway\\MyTestGateway\\ocelot.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T15:22:43.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dockerfile.migrations",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Dockerfile.migrations",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Dockerfile.migrations",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Dockerfile.migrations",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Dockerfile.migrations",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-22T16:05:40.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250322150350_InitialCreate.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Migrations\\20250322150350_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Migrations\\20250322150350_InitialCreate.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Migrations\\20250322150350_InitialCreate.cs",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Migrations\\20250322150350_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:11:08.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Dockerfile",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Dockerfile",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-22T15:12:20.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\appsettings.json",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\appsettings.json",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T15:10:38.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Program.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Program.cs",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:49:44.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\MyTest\\MyTest\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-22T16:38:37.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:21:10.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:30:28.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SaleItem.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\SaleItem.cs",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\SaleItem.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\SaleItem.cs",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\Domain\\Entities\\SaleItem.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:30:36.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\Gateway\\MyTestGateway\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Gateway\\MyTestGateway\\appsettings.Development.json",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\Gateway\\MyTestGateway\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Gateway\\MyTestGateway\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T15:50:55.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\SalesApi\\MyTestSalesApi\\appsettings.Development.json",
+              "ToolTip": "C:\\MyTest\\MyTest\\src\\SalesApi\\MyTestSalesApi\\appsettings.Development.json",
+              "RelativeToolTip": "src\\SalesApi\\MyTestSalesApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T15:12:23.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SaleServiceTests.cs",
+              "DocumentMoniker": "C:\\MyTest\\MyTest\\tests\\MyTest.Tests\\MyTest.Tests\\SaleServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\MyTest.Tests\\MyTest.Tests\\SaleServiceTests.cs",
+              "ToolTip": "C:\\MyTest\\MyTest\\tests\\MyTest.Tests\\MyTest.Tests\\SaleServiceTests.cs",
+              "RelativeToolTip": "tests\\MyTest.Tests\\MyTest.Tests\\SaleServiceTests.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:18:23.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+version: '3.3'
+
+services:
+  migrate:
+    image: mytest-salesapi-migrations
+    build:
+      context: ./src/SalesApi/MyTestSalesApi
+      dockerfile: Dockerfile.migrations
+    environment:
+      - ConnectionStrings__SalesApiDb=Host=db;Database=SalesApiDb;Username=postgres;Password=admin
+    depends_on:
+      - db
+    restart: "no"
+    networks:
+      - evaluation-network
+
+  sales-api:
+    image: sales-api
+    build:
+      context: ./src/SalesApi/MyTestSalesApi
+      dockerfile: Dockerfile
+    container_name: sales-api
+    depends_on:
+      - db
+      - migrate
+    ports:
+      - "8090:8090"
+    environment:
+      - ASPNETCORE_URLS=http://+:8090
+      - ConnectionStrings__SalesApiDb=Host=db;Database=SalesApiDb;Username=postgres;Password=admin
+    networks:
+      - evaluation-network
+    tty: true
+
+  gateway:
+    image: ocelot-gateway
+    build:
+      context: ./src/Gateway/MyTestGateway
+      dockerfile: Dockerfile
+    container_name: ocelot-gateway
+    depends_on:
+      - sales-api
+    ports:
+      - "7777:7777"
+    environment:
+      - ASPNETCORE_URLS=http://+:7777
+    networks:
+      - evaluation-network
+
+  db:
+    image: postgres:latest
+    container_name: db
+    environment:
+      POSTGRES_DB: SalesApiDb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
+    ports:
+      - "5432:5432"
+    networks:
+      - evaluation-network
+
+networks:
+  evaluation-network:
+    driver: bridge
