@@ -1,12 +1,10 @@
 pipeline {
     agent any
-    parameters {
-        string(name: 'GIT_REPO_URL', defaultValue: '', description: 'URL do repositório Git do candidato')
-    }
     environment {
         DOCKER_NETWORK = "evaluation-network"
         CANDIDATE_WORKSPACE = '/data/project'
         TESTS_PATH = '/data/tests-suite'
+        GIT_REPO_URL = 'https://github.com/gabrielcordeiroti/SalesApi'
     }
     stages {
         stage('Clonar Repositório do Candidato') {
@@ -14,12 +12,9 @@ pipeline {
                 script {
                     if (fileExists("${CANDIDATE_WORKSPACE}")) {
                         echo "Diretório ${CANDIDATE_WORKSPACE} já existe"
-                    }else{
-                        if (params.GIT_REPO_URL == '') {
-                            error "O URL do repositório não foi informado!"
-                        }
+                    } else {
                         sh "git config --global --add safe.directory ${CANDIDATE_WORKSPACE}"
-                        sh "git clone ${params.GIT_REPO_URL} ${CANDIDATE_WORKSPACE}"
+                        sh "git clone ${GIT_REPO_URL} ${CANDIDATE_WORKSPACE}"
                         sh 'chown -R $(whoami):$(whoami) ${CANDIDATE_WORKSPACE}'
                         dir("${CANDIDATE_WORKSPACE}") {
                             sh 'git checkout main || git checkout master'
